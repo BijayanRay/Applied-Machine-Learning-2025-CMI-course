@@ -1,0 +1,16 @@
+artifact_uri: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/a9e1067ae8f34d49a13cc016f0c3825b/artifacts
+end_time: 1741115661304
+entry_point_name: ''
+experiment_id: '387370587258839654'
+lifecycle_stage: active
+run_id: a9e1067ae8f34d49a13cc016f0c3825b
+run_name: Logistic Regression
+run_uuid: a9e1067ae8f34d49a13cc016f0c3825b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741115656542
+status: 3
+tags: []
+user_id: bijayanray

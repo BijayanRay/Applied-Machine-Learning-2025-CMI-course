@@ -1,0 +1,16 @@
+artifact_uri: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/cafe4d0ce7fa4bbfa408b1deaa34c4aa/artifacts
+end_time: 1741115218540
+entry_point_name: ''
+experiment_id: '387370587258839654'
+lifecycle_stage: active
+run_id: cafe4d0ce7fa4bbfa408b1deaa34c4aa
+run_name: Naive Bayes
+run_uuid: cafe4d0ce7fa4bbfa408b1deaa34c4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741115214486
+status: 3
+tags: []
+user_id: bijayanray

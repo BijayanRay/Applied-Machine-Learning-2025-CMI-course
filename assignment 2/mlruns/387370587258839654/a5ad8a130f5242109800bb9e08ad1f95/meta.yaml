@@ -1,0 +1,16 @@
+artifact_uri: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/a5ad8a130f5242109800bb9e08ad1f95/artifacts
+end_time: 1741115665678
+entry_point_name: ''
+experiment_id: '387370587258839654'
+lifecycle_stage: active
+run_id: a5ad8a130f5242109800bb9e08ad1f95
+run_name: Multinomial Naive Bayes
+run_uuid: a5ad8a130f5242109800bb9e08ad1f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741115661359
+status: 3
+tags: []
+user_id: bijayanray
