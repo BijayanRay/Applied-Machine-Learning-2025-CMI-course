@@ -1,0 +1,16 @@
+artifact_uri: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/a6479567a1824d018aaf73e775250bba/artifacts
+end_time: 1741116936793
+entry_point_name: ''
+experiment_id: '387370587258839654'
+lifecycle_stage: active
+run_id: a6479567a1824d018aaf73e775250bba
+run_name: Best Model - Support Vector Machine
+run_uuid: a6479567a1824d018aaf73e775250bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741116931853
+status: 3
+tags: []
+user_id: bijayanray

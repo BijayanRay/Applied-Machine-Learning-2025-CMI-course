@@ -1,0 +1,16 @@
+artifact_uri: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/5142c824229d443fb71929b940b86249/artifacts
+end_time: 1741116931823
+entry_point_name: ''
+experiment_id: '387370587258839654'
+lifecycle_stage: active
+run_id: 5142c824229d443fb71929b940b86249
+run_name: Support Vector Machine
+run_uuid: 5142c824229d443fb71929b940b86249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741116903859
+status: 3
+tags: []
+user_id: bijayanray

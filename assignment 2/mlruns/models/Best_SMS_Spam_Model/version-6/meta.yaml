@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1741116936704
+current_stage: None
+description: null
+last_updated_timestamp: 1741116936704
+name: Best_SMS_Spam_Model
+run_id: a6479567a1824d018aaf73e775250bba
+run_link: null
+source: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied machine
+  learning/assignments/assignment 2/mlruns/387370587258839654/a6479567a1824d018aaf73e775250bba/artifacts/Support
+  Vector Machine
+status: READY
+status_message: null
+storage_location: file:///A:/partitionD/Downloads/Some Documents/semester 2/applied
+  machine learning/assignments/assignment 2/mlruns/387370587258839654/a6479567a1824d018aaf73e775250bba/artifacts/Support
+  Vector Machine
+user_id: null
+version: 6
