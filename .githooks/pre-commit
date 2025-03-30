@@ -7,6 +7,5 @@ if [ $? -ne 0 ]; then
     echo "Tests failed! Fix the issues before committing."
     exit 1
 fi
-
 echo "Tests passed! Proceeding with commit."
 exit 0
